@@ -1,3 +1,18 @@
+# Unity Dosya Türleri
+Library/
+Logs/
+Obj/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Diğer Gereksiz Dosyalar
+.DS_Store
+
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
